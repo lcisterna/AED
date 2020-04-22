@@ -1,9 +1,9 @@
 # ALGORITMOS Y ESTRUCTURA DE DATOS 
 
-# k1051
+# K1051
 
-#1er Año, Primer cuatrimestre
+# 1er Año, Primer cuatrimestre
 
-#
+# 4777895
 # Cisterna 
 # Lucas
