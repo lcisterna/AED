@@ -2,8 +2,9 @@
 
 # K1051
 
-# 1er Año, Primer cuatrimestre
+# AÑO 2020, Primer cuatrimestre
 
 # LEGAJO: 47784-5
 
-# Cisterna Lucas Adolfo
+# Cisterna 
+# Lucas Adolfo
